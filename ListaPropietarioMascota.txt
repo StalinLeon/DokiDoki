@@ -1,0 +1,4 @@
+1;Calos Villagran;1234567895;0999586365;Mexico
+2;Robero Gomez Bolaño;7538526547;0985236547;Guatemala
+3;Fredy Mercuri;4562563583;0998855223;Estados Unidos
+4;Pedro Picapiedra;8547658325;0988523654;Piedradura
